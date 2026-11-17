@@ -1,1 +1,2 @@
-Upload your website images to this folder.
+ <img 
+src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/250px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="Augusta Ada King, Countess of Lovelace, daguerrotype portrait circa 1843"/>
