@@ -1,7 +1,19 @@
 body {
-  background-color: lightblue;
+  background-color:rgb(37, 128, 1);
 }
-
-h1 {
-  color: darkblue;
+.center {
+     text-align: center;
+     color:  #f39f06;
+}
+.font{
+      font-family: "Times New Roman", Times, serif;
+}
+.h1 {
+      font-size: 75px;
+}
+.h3 {
+      font-size: 40px;
+}
+.p {
+      font-size: 20px;
 }
